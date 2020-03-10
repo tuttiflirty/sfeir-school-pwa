@@ -8,7 +8,17 @@ if (workbox) {
 
 const { strategies } = workbox;
 
-const preCache = ['/index.html'];
+const preCache = [
+  '/',
+  '/index.html',
+  '/mdl/material.min.css',
+  '/mdl/material.min.js',
+  '/css/material-icons.css',
+  '/css/md-overwrite.css',
+  '/css/font/MaterialIcons-Regular.woff2',
+  '/img/logo-app.png',
+  '/offline.html'
+];
 
 workbox.precaching.precacheAndRoute(preCache, {});
 

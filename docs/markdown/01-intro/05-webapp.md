@@ -57,7 +57,7 @@ git clone https://github.com/sfeir-open-source/sfeir-school-pwa.git
 <br>
 
 ```bash
-npm install
+npm ci
 ```
 
 <!-- .element: class="big-code" -->

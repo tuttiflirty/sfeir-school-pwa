@@ -9,8 +9,8 @@
 <!-- .slide: class="school-presentation" -->
 
 <div class="wifi">
-    <span class="key">wifi:</span><span>SfeirBeneluxWiFi</span><br>
-    <span class="key">mdp:</span><span>Jnmrpdm2p</span>
+    <span class="key">wifi:</span><span>Le votre</span><br>
+    <span class="key">mdp:</span><span>le votre</span>
 </div>
 
 ##==##
